@@ -61,38 +61,38 @@ Criar um portal de notícias com temática ambiental, utilizando PHP, MySQL e HT
 
 ### *Etapa 1: Planejamento do Projeto*
 - **Responsável**: Jeremias
-- **Data Início**: [inserir]
-- **Data Entrega**: [inserir]
+- **Data Início**: 10-Jun.
+- **Data Entrega**: 13-Jun.
 
 ### *Etapa 2: Banco de Dados*
 - **Responsável**: João
-- **Data Início**: [inserir]
-- **Data Entrega**: [inserir]
+- **Data Início**: 10-Jun.
+- **Data Entrega**: 12-Jun.
 
 ### *Etapa 3: Interface*
 - **Responsável**: Vitor
-- **Data Início**: [inserir]
-- **Data Entrega**: [inserir]
+- **Data Início**: 10-Jun.
+- **Data Entrega**: 15-Jun.
 
 ### *Etapa 4: Autenticação*
 - **Responsável**: Jeremias
-- **Data Início**: [inserir]
-- **Data Entrega**: [inserir]
+- **Data Início**: 10-Jun.
+- **Data Entrega**: 14-Jun.
 
 ### *Etapa 5: Notícias*
 - **Responsável**: João
-- **Data Início**: [inserir]
-- **Data Entrega**: [inserir]
+- **Data Início**: 10-Jun.
+- **Data Entrega**: 16-Jun.
 
 ### *Etapa 6: Testes*
 - **Responsável**: Vitor
-- **Data Início**: [inserir]
-- **Data Entrega**: [inserir]
+- **Data Início**: 13-Jun.
+- **Data Entrega**: 16-Jun.
 
 ### *Etapa 7: Entrega Final*
 - **Responsáveis**: Jeremias, João e Vitor
-- **Data Início**: [inserir]
-- **Data Entrega**: [inserir]
+- **Data Início**: 10-Jun.
+- **Data Entrega**: 25-Jun.
 
 ---
 
